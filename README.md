@@ -196,7 +196,7 @@ The PDF encryption used was standard PDF `R3`/128-bit RC4 encryption — cryptog
 | `theHarvester` | OSINT gathering (emails, hosts, people) |
 | `curl` | HTTP header inspection, `robots.txt` enumeration, direct retrieval of the exposed backup file |
 | `exiftool` | Metadata extraction/verification from decrypted PDF reports |
-| John the Ripper / Hashcat–style PDF hash cracking (`pdf2john` workflow) | Dictionary attack against password-protected patient PDF reports |
+|  Hashcat–style PDF hash cracking (`pdf2john` workflow) | Dictionary attack against password-protected patient PDF reports |
 
 ---
 
